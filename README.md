@@ -56,7 +56,7 @@ The Smart URL Safety Checker is a full-stack machine learning project with:
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 | Model            | Accuracy |
 |------------------|----------|
