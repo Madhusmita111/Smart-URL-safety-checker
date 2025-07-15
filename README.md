@@ -72,10 +72,15 @@ The Smart URL Safety Checker is a full-stack machine learning project with:
 
 ```bash
 Smart-URL-safety-checker/
-├── app.py                 # Flask Web App
-├── ml(1).ipynb            # Jupyter Notebook for ML training
-├── phishing_model.pkl     # Trained model (XGBoost)
+├── app.py                   # Flask Web Application (backend)
+├── ml(1).ipynb              # Machine Learning training notebook (Google Colab)
+├── phishing_model.pkl       # Trained ML model (XGBoost saved using Pickle)
+├── phishing_site_data.csv   # Dataset used for training and testing
+├── README.md                # Project documentation (you're reading it)
+│
 ├── templates/
-│   └── index.html         # Frontend HTML interface
-├── phishing_site_data.csv # Dataset used
-├── README.md              # You're reading it!
+│   └── index.html           # Frontend UI – HTML page for user URL input
+│
+├── static/
+│   └── style.css            # CSS stylesheet for styling the frontend
+
