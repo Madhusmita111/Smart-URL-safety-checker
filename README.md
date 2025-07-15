@@ -5,6 +5,14 @@
 
 ---
 
+## Prediction Output
+
+![Prediction Output](image/https://github.com/Madhusmita111/Smart-URL-safety-checker/blob/main/image/Screenshot%202025-07-15%20102832.png)
+![Prediction Output](image/https://github.com/Madhusmita111/Smart-URL-safety-checker/blob/main/image/Screenshot%202025-07-14%20085457.png)
+![Prediction Output](image/https://github.com/Madhusmita111/Smart-URL-safety-checker/blob/main/image/Screenshot%202025-07-14%20085143.png)
+
+
+
 ##  Abstract
 
 Phishing remains one of the most common and dangerous cybersecurity threats, deceiving users into sharing sensitive information via fake links. This project presents a web-based application powered by machine learning to automatically detect phishing URLs by analyzing over 30 URL-based features.
